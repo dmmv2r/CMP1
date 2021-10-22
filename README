@@ -9,3 +9,5 @@ Compile program by using make. Clean repository using make clean.
 Execute program using ./scanner followed by a file name. If no file name is given, program will error and abort.
 
 FSA is located in scanner.h while the driver function is located in testScanner.cpp and is the function testscanner().
+
+Version control accomplished using Git and GitHub. Repository is under username dmmv2r and is named CMP1.
